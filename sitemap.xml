@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zhanruicai.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://zhanruicai.github.io/mypost/</loc>
+    <lastmod>2019-04-25T10:33:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhanruicai.github.io/cope/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhanruicai.github.io/360pro/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhanruicai.github.io/tedx/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://zhanruicai.github.io/</loc>
+    <lastmod>2019-04-25T10:33:42-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhanruicai.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
