@@ -244,8 +244,8 @@ section {
 }
 
 .process-item {
-  max-width: 300px;
-  padding-top: 20px;
+  max-width: 1000px;
+  padding-top: 50px;
 }
 
 .process-item h3 {
