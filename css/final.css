@@ -267,7 +267,7 @@ section {
 }
 
 .process-item {
-  max-width: 1000px;
+  max-width: 1200px;
   padding-top: 50px;
 }
 
@@ -584,7 +584,7 @@ section {
   }
 
   .process-item {
-    max-width: 45%;
+    max-width: 60%;
   }
 }
 

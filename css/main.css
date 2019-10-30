@@ -11,9 +11,9 @@ body {
 
 main {
     margin: auto;
-    padding: 25px;
+    padding: 20px;
     flex: 1 0 auto;
-    max-width: 750px;
+    max-width: 900px;
 }
 
 /*footer*/
