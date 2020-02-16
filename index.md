@@ -9,18 +9,25 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. candidate from the Department of Statistics , Pennsylvania State University, expecting to graduate in 2021. My advisor is Dr. Runze Li .
+I am currently a Ph.D. candidate from the [Department of Statistics](https://science.psu.edu/stat), [Pennsylvania State University](https://www.psu.edu/), expecting to graduate in 2021. My advisor is [Dr. Runze Li](http://www.personal.psu.edu/ril4/) .
 
-I obtained my Bachelor degree from School of Statistics, Renmin University of China in 2016.
+I obtained my Bachelor degree from [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
 
-I am also a member of Capital of Statistics.
+I am also a member of [Capital of Statistics](https://cosx.org/).
 
 My research interests origins in online machine learning and independence test.
-
 
 # Research Interests
 
 - Online machine learning,
 - Independence test,
 - Synthetic data generation.
+
+# Awards
+
+- Award for Distingushed Performance on the Ph.D. qualifier exam. Penn State.
+
+- Distinguished Graduate Fellowship. Penn State.
+
+- University Graduate Fellowship. Penn State.
 
