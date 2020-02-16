@@ -1,19 +1,10 @@
-# main links
+# main links links
 main:
-  - title: "about"
-    url: /about/
-    title: "Teaching"
-    url: /teaching/
-    title: "Teaching"
-    url: /teaching/
+  - title: "Publications"
+    url: /publications/
 
-
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Teaching"
+    url: /teaching/    
+  
+  - title: "Contact"
+    url: /contact/   
