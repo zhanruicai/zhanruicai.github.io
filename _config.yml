@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhanrui Cai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ruic.jpg"
   bio              : "Ph.D. candidate"
   location         : "State College, PA."
   email            :
@@ -293,3 +293,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+
