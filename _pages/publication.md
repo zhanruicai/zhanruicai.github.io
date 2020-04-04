@@ -10,5 +10,5 @@ author_profile: true
 
 - **Cai, Z.**, Zhang, Y., Li, R. "A Distribution-Free Conditional Independence Test with Application to Causal Discovery," Submitted.
 
-- Zhu, X., Ma, Y., **Cai, Z.**. "Network Functional Autoregression Model," Submitted.
+- Zhu, X., Ma, Y., **Cai, Z**. "Network Functional Autoregression Model," Submitted.
 
