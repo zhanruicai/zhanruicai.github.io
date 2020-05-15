@@ -25,9 +25,9 @@ My research interests origins in online machine learning and independence test.
 
 # Awards
 
-- Award for Distingushed Performance on the Ph.D. qualifier exam. Penn State.
+- Institute of Mathematical Statistics (IMS) Hannan Graduate Student Travel Award. 2020.
 
-- Distinguished Graduate Fellowship. Penn State.
+- Award for Distingushed Performance on the Ph.D. qualifier exam. Penn State. 2017.
 
-- University Graduate Fellowship. Penn State.
+- University Graduate Fellowship. Penn State. 2016 - 2018.
 
