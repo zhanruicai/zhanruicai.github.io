@@ -15,8 +15,6 @@ I obtained my Bachelor degree from [School of Statistics](http://stat.ruc.edu.cn
 
 I am also a member of [Capital of Statistics](https://cosx.org/).
 
-My research interests origins in online machine learning and independence test.
-
 # Research Interests
 
 - Online machine learning,
