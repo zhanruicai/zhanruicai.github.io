@@ -19,3 +19,6 @@ author_profile: true
 ## Interdisciplinary research.
 
 - Buu, Y., **Cai, Z.**, Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. "Validating E-cigarette Dependence Scales Based on Dynamic Patterns of Vaping Behaviors", Submitted.
+
+- Buu, Y., **Cai, Z.**, Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. "The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures", Submitted.
+
