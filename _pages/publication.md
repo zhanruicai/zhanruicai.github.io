@@ -10,7 +10,7 @@ author_profile: true
 
 - **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", major revision, Journal of Econometrics.
 
-- Zhu, X., Ma, Y., **Cai, Z**. "Network Functional Autoregression Model", major revision, Journal of the American Statistical Association.
+- Zhu, X.,**Cai, Z**, Ma, Y. "Network Functional Autoregression Model", major revision, Journal of the American Statistical Association.
 
 - **Cai, Z.**, Zhang, Y., Li, R. "A Distribution-Free Conditional Independence Test with Application to Causal Discovery", under review, Journal of Machine Learning Research.
 
