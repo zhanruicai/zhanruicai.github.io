@@ -8,11 +8,11 @@ author_profile: true
 
 - **Cai, Z.**, Li, R., Zhu, L. (2020) “[Online Sufficient Dimension Reduction Through Sliced Inverse Regression](http://jmlr.org/papers/v21/18-567.html)”, Journal of Machine Learning Research, 21(10):1−25.
 
-- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", major revision, Journal of Econometrics.
+- **Cai, Z.**, Zhang, Y., Li, R. "A Distribution-Free Conditional Independence Test with Application to Causal Discovery", accepted after minor revision, Journal of Machine Learning Research.
 
-- Zhu, X.,**Cai, Z**, Ma, Y. "Network Functional Autoregression Model", major revision, Journal of the American Statistical Association.
+- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", invited major revision, Journal of Econometrics.
 
-- **Cai, Z.**, Zhang, Y., Li, R. "A Distribution-Free Conditional Independence Test with Application to Causal Discovery", under review, Journal of Machine Learning Research.
+- Zhu, X.,**Cai, Z**, Ma, Y. "Network Functional Autoregression Model", invited major revision, Journal of the American Statistical Association.
 
 - Awan, J., **Cai, Z**. "[One Step to Efficient Synthetic Data](https://arxiv.org/abs/2006.02397)", submitted.
 
