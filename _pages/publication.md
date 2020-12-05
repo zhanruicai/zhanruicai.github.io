@@ -16,6 +16,9 @@ author_profile: true
 
 - Awan, J., **Cai, Z**. "[One Step to Efficient Synthetic Data](https://arxiv.org/abs/2006.02397)", submitted.
 
+- **Cai, Z.**, Xi, D., Zhu, X., Li, R. "Causal Discoveries for High Dimensional Mixed Data", submitted.
+
+
 ## Interdisciplinary research.
 
 - Buu, Y., **Cai, Z.**, Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020). "The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures", Drug and Alcohol Dependence (2020): 108341.
