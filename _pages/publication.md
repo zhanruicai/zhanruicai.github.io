@@ -8,7 +8,7 @@ author_profile: true
 
 - **Cai, Z.**, Li, R., Zhu, L. (2020) “[Online Sufficient Dimension Reduction Through Sliced Inverse Regression](http://jmlr.org/papers/v21/18-567.html)”, Journal of Machine Learning Research, 21(10):1−25.
 
-- **Cai, Z.**, Zhang, Y., Li, R. "A Distribution-Free Conditional Independence Test with Application to Causal Discovery", accepted after minor revision, Journal of Machine Learning Research.
+- **Cai, Z.**, Zhang, Y., Li, R. "A Distribution-Free Conditional Independence Test with Application to Causal Discovery", accepted (conditional on minor revision), Journal of Machine Learning Research.
 
 - **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", invited major revision, Journal of Econometrics.
 
