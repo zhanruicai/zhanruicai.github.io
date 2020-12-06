@@ -13,13 +13,13 @@ classes: wide
 
 - **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", invited major revision, Journal of Econometrics.
 
-- Zhu, X.,**Cai, Z**, Ma, Y. "Network Functional Autoregression Model", invited major revision, Journal of the American Statistical Association.
+- Zhu, X., **Cai, Z**, Ma, Y. "Network Functional Autoregression Model", invited major revision, Journal of the American Statistical Association.
 
 - Awan, J., **Cai, Z**. "[One Step to Efficient Synthetic Data](https://arxiv.org/abs/2006.02397)", submitted.
 
 - **Cai, Z.**, Xi, D., Zhu, X., Li, R. "Causal Discoveries for High Dimensional Mixed Data", submitted.
 
-- Tong, Z.,**Cai, Z**, Li, R. "Model-Free Conditional Feature Screening with FDR Control", submitted.
+- Tong, Z., **Cai, Z**, Li, R. "Model-Free Conditional Feature Screening with FDR Control", submitted.
 
 
 ## Interdisciplinary research.
