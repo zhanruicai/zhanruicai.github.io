@@ -19,3 +19,5 @@ classes: wide
   - STAT 462 (Autocorrelation and Time Series Methods), Spring 2018
 
   - STAT 200 (Elementary Statistics), Fall 2018
+  
+  - STAT 513 (Theory of Statistics I) & 514 (Theory of Statistics II), Fall 2020
