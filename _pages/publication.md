@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-## Statistics and machine learning.
+## Statistics and Machine Learning
 
 - **Cai, Z.**, Li, R., Zhu, L. (2020) “[Online Sufficient Dimension Reduction Through Sliced Inverse Regression](http://jmlr.org/papers/v21/18-567.html)”, Journal of Machine Learning Research, 21(10):1−25.
 
@@ -22,7 +22,7 @@ classes: wide
 - Tong, Z., **Cai, Z**, Li, R. "Model-Free Conditional Feature Screening with FDR Control", submitted.
 
 
-## Interdisciplinary research.
+## Interdisciplinary Research
 
 - Buu, Y., **Cai, Z.**, Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020). "The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures", Drug and Alcohol Dependence (2020): 108341.
 
