@@ -11,4 +11,4 @@ classes: wide
 
 # Friends
 
--"[Zhaoxue Tong](https://nevetong.github.io/)" 
+-[Zhaoxue Tong](https://nevetong.github.io/)
