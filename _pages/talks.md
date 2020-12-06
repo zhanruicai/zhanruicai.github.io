@@ -2,6 +2,7 @@
 title: "Talks"
 permalink: /talks/
 author_profile: true
+classes: wide
 ---
 
 - Online learning for sufficient dimension reduction. The 12th China-R Conference. Beijing. May, 2019. 

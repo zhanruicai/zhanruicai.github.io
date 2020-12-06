@@ -2,6 +2,7 @@
 title: "Contact"
 permalink: /contact/
 author_profile: true
+classes: wide
 ---
 
 - 331A Thomas Building, University Park, PA. 16802.
