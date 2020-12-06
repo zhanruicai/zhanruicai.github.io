@@ -19,7 +19,7 @@ I am also a member of [Capital of Statistics](https://cosx.org/).
 
 - Online machine learning,
 - Independence test,
-- Synthetic data generation.
+- Causal Inference.
 
 # Awards
 
