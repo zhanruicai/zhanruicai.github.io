@@ -9,3 +9,6 @@ classes: wide
 
 - Email: zxc55 [at] psu.edu
 
+# Friends
+
+-"[Zhaoxue Tong](https://nevetong.github.io/)" 
