@@ -17,9 +17,10 @@ I am also a member of [Capital of Statistics](https://cosx.org/).
 
 # Research Interests
 
-- Online machine learning,
-- Independence test,
-- Causal Inference.
+- High dimensional data analysis.
+- (Conditional) independence test.
+- Causal discovery.
+- Online learning.
 
 # Awards
 
