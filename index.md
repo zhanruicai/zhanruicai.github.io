@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. candidate from the [Department of Statistics](https://science.psu.edu/stat), [Pennsylvania State University](https://www.psu.edu/), expecting to graduate in 2021. My advisor is [Dr. Runze Li](http://www.personal.psu.edu/ril4/) .
+I am currently a Ph.D. candidate from the [Department of Statistics](https://science.psu.edu/stat), [Pennsylvania State University](https://www.psu.edu/), expecting to graduate in 2021. I am extremely fortunate to be advised by [Dr. Runze Li](http://www.personal.psu.edu/ril4/) .
 
 I obtained my Bachelor degree from [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
 
