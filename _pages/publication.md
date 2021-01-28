@@ -11,9 +11,9 @@ classes: wide
 
 - **Cai, Z.**, Zhang, Y., Li, R. "A Distribution-Free Conditional Independence Test with Application to Causal Discovery", accepted (conditional on minor revision), Journal of Machine Learning Research.
 
-- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", invited major revision, Journal of Econometrics.
+- Zhu, X., **Cai, Z**, Ma, Y. "Network Functional Autoregression Model", accepted (conditional on minor revision),  Journal of the American Statistical Association.
 
-- Zhu, X., **Cai, Z**, Ma, Y. "Network Functional Autoregression Model", invited major revision, Journal of the American Statistical Association.
+- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", invited major revision, Journal of Econometrics.
 
 - Awan, J., **Cai, Z**. "[One Step to Efficient Synthetic Data](https://arxiv.org/abs/2006.02397)", submitted.
 
