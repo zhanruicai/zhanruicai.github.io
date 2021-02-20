@@ -13,7 +13,7 @@ classes: wide
 
 - Zhu, X., **Cai, Z**, Ma, Y. "Network Functional Autoregression Model", accepted (conditional on minor revision),  Journal of the American Statistical Association.
 
-- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", invited major revision, Journal of Econometrics.
+- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", submitted.
 
 - Awan, J., **Cai, Z**. "[One Step to Efficient Synthetic Data](https://arxiv.org/abs/2006.02397)", submitted.
 

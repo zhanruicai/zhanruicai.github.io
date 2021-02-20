@@ -10,6 +10,4 @@ classes: wide
 - Email: zxc(A NUMBER) [at] psu.edu
 
 - (A NUMBER) = 55
-# Friends
 
--[Zhaoxue Tong](https://nevetong.github.io/)
