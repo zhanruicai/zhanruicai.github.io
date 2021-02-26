@@ -15,9 +15,9 @@ classes: wide
 
 - **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. "A Consistent Independence Test via Projected Mutual Information", submitted.
 
-- Awan, J., **Cai, Z**. "[One Step to Efficient Synthetic Data](https://arxiv.org/abs/2006.02397)", submitted.
-
 - **Cai, Z.**, Xi, D., Zhu, X., Li, R. "Causal Discoveries for High Dimensional Mixed Data", submitted.
+
+- Awan, J., **Cai, Z**. "[Approximate Co-Sufficient Sampling for Goodness-of-fit Tests and Synthetic Data](https://arxiv.org/abs/2006.02397)", submitted.
 
 - Tong, Z., **Cai, Z**, Li, R. "Model-Free Conditional Feature Screening with FDR Control", submitted.
 
