@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. candidate from the [Department of Statistics](https://science.psu.edu/stat), [Pennsylvania State University](https://www.psu.edu/), expecting to graduate in Summer 2021. I am extremely fortunate to be advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/).
+I am currently a Ph.D. candidate from the [Department of Statistics](https://science.psu.edu/stat), Pennsylvania State University, expecting to graduate in Summer 2021. I am extremely fortunate to be advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/).
 
-I will be joining the Department of Statistics and Data Science, Carnegie Mellon University as a postdoctoral researcher in Fall 2021, supervised by Professor [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml).
+I will be joining the [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University as a postdoctoral researcher in Fall 2021, supervised by Professor [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml).
 
 Previously, I obtained my Bachelor degree from [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
 
