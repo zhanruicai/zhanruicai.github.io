@@ -7,7 +7,7 @@ classes: wide
 
 ## Statistics and Machine Learning
 
-- **Cai, Z.**, Zhang, Y., Li, R. (2021) "[A Distribution-Free Conditional Independence Test with Application to Causal Discovery](https://zhanruicai.github.io/assets/ci.pdf)", accepted (conditional on minor revision), Journal of Machine Learning Research. 
+- **Cai, Z.**, Zhang, Y., Li, R. (2021) "[A Distribution-Free Conditional Independence Test with Application to Causal Discovery](https://arxiv.org/abs/2105.07555)", accepted (conditional on minor revision), Journal of Machine Learning Research. 
 
 - Zhu, X., **Cai, Z**, Ma, Y. (2021) "[Network Functional Autoregression Model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association.
 
