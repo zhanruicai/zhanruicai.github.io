@@ -11,11 +11,10 @@ classes: wide
 ---
 
 
-I am currently a Ph.D. candidate from the [Department of Statistics](https://science.psu.edu/stat), Pennsylvania State University, graduating in Summer 2021. I am extremely fortunate to be advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/).
 
-I will be joining the [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University as a postdoctoral researcher in the Fall, supervised by Professor [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml).
+I am currently a postdoctoral researcher in the [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University, supervised by Professor [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml).
 
-I obtained my Bachelor degree from [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
+I received my Ph.D. in May 2021 from the [Department of Statistics](https://science.psu.edu/stat) at Pennsylvania State University, advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/). Prior to graduate school, I received my Bachelor in [Statistics](http://stat.ruc.edu.cn/) from [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
 
 
 # Research Interests
