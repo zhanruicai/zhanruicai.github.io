@@ -5,9 +5,6 @@ author_profile: true
 classes: wide
 ---
 
-- 331A Thomas Building, University Park, PA. 16802.
+- Email: zhanruic [at] andrew.cmu.edu
 
-- Email: zxc(A NUMBER) [at] psu.edu
-
-- (A NUMBER) = 55
 
