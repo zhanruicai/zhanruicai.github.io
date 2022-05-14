@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhanrui Cai / Zhanrui Cai"
+title                    : "Zhanrui Cai"
 title_separator          : "-"
 name                     : &name "Zhanrui Cai"
 description              : &description "personal description"
