@@ -13,7 +13,7 @@ author_profile: true
 
 - Tong, Z., **Cai, Z**, Yang, S., Li, R. (2022) “[Model-free conditional feature screening with FDR control](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2063130)”, Journal of the American Statistical Association.
 
-- **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property", accepted, Journal of Econometrics.
+- **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
 
 - Zhu, X., **Cai, Z**, Ma, Y. (2021) "[Network functional autoregression model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association.
 
