@@ -14,6 +14,8 @@ I am currently a postdoctoral researcher in the [Department of Statistics and Da
 
 I received my Ph.D. in May 2021 from the [Department of Statistics](https://science.psu.edu/stat) at Pennsylvania State University, advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/). Prior to graduate school, I received my Bachelor in [Statistics](http://stat.ruc.edu.cn/) from [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
 
+Here is my [CV](https://www.dropbox.com/s/bypkbt07jiavf7y/ZhanruiResume.pdf?dl=0).
+
 
 # Research Interests
 
@@ -21,7 +23,7 @@ I received my Ph.D. in May 2021 from the [Department of Statistics](https://scie
 - Distribution-free inference
 - Machine learning
 - Causal discovery
-- Statistical genetics
+- Statistical genomics
 
 # Awards
 
