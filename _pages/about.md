@@ -10,26 +10,25 @@ redirect_from:
 
 
 
-I am currently a postdoctoral researcher in the [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University, supervised by Professor [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml).
+I am a tenure track assistant professor in the [Department of Statistics](https://www.stat.iastate.edu/) at Iowa State University. 
 
-I received my Ph.D. in May 2021 from the [Department of Statistics](https://science.psu.edu/stat) at Pennsylvania State University, advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/). Prior to graduate school, I received my Bachelor in [Statistics](http://stat.ruc.edu.cn/) from [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
+Previously, I spent one year as a postdoc researcher in the [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University, working with Professor [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml). I received my Ph.D. in May 2021 from the [Department of Statistics](https://science.psu.edu/stat) at the Pennsylvania State University, advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/). Before graduate school, I received my Bachelor in [Statistics](http://stat.ruc.edu.cn/) from [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
 
 Here is my [CV](https://www.dropbox.com/s/bypkbt07jiavf7y/ZhanruiResume.pdf?dl=0).
 
 
-# Research Interests
+My current research focused on borrowing the power of advanced machine learning algorithms to traditional statistical problems. Related ML areas include neural network-based regression and classification and variational autoencoder. I am broadly interested in statistical applications in high dimensional data, distribution-free inference, etc. The ultimate goal of my research is to enhance the statistical understanding of real data.
 
-- High dimensional inference
-- Distribution-free inference
-- Machine learning
-- Causal discovery
-- Statistical genomics
+
+Please send your CV and most representative work by email if you are interested in working with me.
+
+
 
 # Awards
 
 - Institute of Mathematical Statistics (IMS) Hannan Graduate Student Travel Award. 2020.
 
-- Award for Distingushed Performance on the Ph.D. qualifier exam. Penn State. 2017.
+- Award for Distinguished Performance on the Ph.D. qualifier exam. Penn State. 2017.
 
 - University Graduate Fellowship. Penn State. 2016 - 2018.
 
