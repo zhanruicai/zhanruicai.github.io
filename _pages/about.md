@@ -23,12 +23,3 @@ My current research focused on borrowing the power of advanced machine learning 
 Please send your CV and most representative work by email if you are interested in working with me.
 
 
-
-# Awards
-
-- Institute of Mathematical Statistics (IMS) Hannan Graduate Student Travel Award. 2020.
-
-- Award for Distinguished Performance on the Ph.D. qualifier exam. Penn State. 2017.
-
-- University Graduate Fellowship. Penn State. 2016 - 2018.
-
