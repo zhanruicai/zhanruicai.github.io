@@ -8,7 +8,7 @@ author_profile: true
 
 ## Statistics and Machine Learning
 
-- **Cai, Z**, Lei, J., Roeder, K. (2022+) "[Model-free prediction test with application to genomics data](https://www.biorxiv.org/content/10.1101/2022.03.28.486116v1)", to appear, Proceedings of the National Academy of Sciences.
+- **Cai, Z**, Lei, J., Roeder, K. (2022) "[Model-free prediction test with application to genomics data](https://www.biorxiv.org/content/10.1101/2022.03.28.486116v1)", to appear, Proceedings of the National Academy of Sciences.
 
 - **Cai, Z.**, Zhang, Y., Li, R. (2022) "[A distribution-free conditional independence test with application to causal discovery](https://jmlr.org/papers/v23/20-682.html)", Journal of Machine Learning Research. 
 
