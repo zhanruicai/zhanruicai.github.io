@@ -8,11 +8,11 @@ author_profile: true
 
 ## Statistics and Machine Learning
 
-- **Cai, Z**, Lei, J., Roeder, K. (2022) "[Model-free prediction test with application to genomics data](https://www.biorxiv.org/content/10.1101/2022.03.28.486116v1)", to appear, Proceedings of the National Academy of Sciences.
+- **Cai, Z**, Lei, J., Roeder, K. (2022) "[Model-free prediction test with application to genomics data](https://www.biorxiv.org/content/10.1101/2022.03.28.486116v1)", Proceedings of the National Academy of Sciences, to appear.
 
 - **Cai, Z.**, Zhang, Y., Li, R. (2022) "[A distribution-free conditional independence test with application to causal discovery](https://jmlr.org/papers/v23/20-682.html)", Journal of Machine Learning Research. 
 
-- **Cai, Z.**, Xi, D., Zhu, X., Li, R. (2022) "Causal discoveries for high dimensional mixed data", to appear, Statistics in Medicine.
+- **Cai, Z.**, Xi, D., Zhu, X., Li, R. (2022) "Causal discoveries for high dimensional mixed data", Statistics in Medicine, to appear.
 
 - Tong, Z., **Cai, Z**, Yang, S., Li, R. (2022) “[Model-free conditional feature screening with FDR control](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2063130)”, Journal of the American Statistical Association.
 
