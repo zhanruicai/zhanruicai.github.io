@@ -7,13 +7,13 @@ author_profile: true
 
 ## Prepints
 
-- Du, J., **Cai, Z**, Roeder, K. (2022+) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT]()", under review.
+- Du, J., **Cai, Z**, Roeder, K. (2022+) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT]()".
 
-- **Cai, Z**, Lei, J., Roeder, K. (2022+) "[A distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)", under review.
+- **Cai, Z**, Lei, J., Roeder, K. (2022+) "[A distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
 
-- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2022+) "[Nonparametric test of independence through projection pursuit]()", under review.
+- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2022+) "[Nonparametric test of independence through projection pursuit]()".
 
-- Awan, J., **Cai, Z** (2021+) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)", under review.
+- Awan, J., **Cai, Z** (2021+) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
 
 
 ## Statistics and Machine Learning
