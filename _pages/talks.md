@@ -5,6 +5,8 @@ author_profile: true
 classes: wide
 ---
 
+- International Seminar on Selective Inference, online, June, 2022.
+
 - The ICSA 2021 Applied Statistics Symposium, online. Sep, 2021. 
 
 - Quality and Productivity Research Conference (QPRC). Tallahassee, FL. Jul, 2021.
