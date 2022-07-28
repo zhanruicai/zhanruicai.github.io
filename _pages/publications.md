@@ -7,7 +7,7 @@ author_profile: true
 
 ## Prepints
 
-- Du, J., **Cai, Z**, Roeder, K. (2022+) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT]()".
+- Du, J., **Cai, Z**, Roeder, K. (2022+) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.biorxiv.org/content/10.1101/2022.07.25.501456v1)".
 
 - **Cai, Z**, Lei, J., Roeder, K. (2022+) "[A distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
 
