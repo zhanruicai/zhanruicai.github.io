@@ -18,8 +18,3 @@ Here is my [CV](https://www.dropbox.com/s/bypkbt07jiavf7y/ZhanruiResume.pdf?dl=0
 
 
 My current research focused on borrowing the power of advanced machine learning algorithms to traditional statistical problems. Related ML areas include neural network-based regression, classification and variational autoencoder. I am broadly interested in statistical applications in high dimensional data, distribution-free inference, etc. The ultimate goal of my research is to enhance the statistical understanding of real data.
-
-
-Please send your CV and most representative work by email if you are interested in working with me.
-
-
