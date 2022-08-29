@@ -22,11 +22,11 @@ author_profile: true
 
 - **Cai, Z.**, Zhang, Y., Li, R. (2022) "[A distribution-free conditional independence test with application to causal discovery](https://jmlr.org/papers/v23/20-682.html)", Journal of Machine Learning Research. 
 
+- - **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
+
 - **Cai, Z.**, Xi, D., Zhu, X., Li, R. (2022) "[Causal discoveries for high dimensional mixed data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9544)", Statistics in Medicine.
 
 - Tong, Z., **Cai, Z**, Yang, S., Li, R. (2022) “[Model-free conditional feature screening with FDR control](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2063130)”, Journal of the American Statistical Association.
-
-- **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
 
 - Zhu, X., **Cai, Z**, Ma, Y. (2021) "[Network functional autoregression model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association.
 
@@ -36,9 +36,9 @@ author_profile: true
 
 ## Interdisciplinary Research
 
-- Buu, Y., **Cai, Z.**, Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020) "[The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures](https://authors.elsevier.com/c/1cFP11LiD33U2i)", Drug and Alcohol Dependence (2020): 108341.
+- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020) "[The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures](https://authors.elsevier.com/c/1cFP11LiD33U2i)", Drug and Alcohol Dependence (2020): 108341.
 
-- Buu, Y., **Cai, Z.**, Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2021) "[Validating E-cigarette dependence scales based on dynamic patterns of vaping behaviors](https://pubmed.ncbi.nlm.nih.gov/33758949/)", Nicotine &amp; Tobacco Research.
+- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2021) "[Validating E-cigarette dependence scales based on dynamic patterns of vaping behaviors](https://pubmed.ncbi.nlm.nih.gov/33758949/)", Nicotine &amp; Tobacco Research.
 
 - Buu, A., Tong, Z., Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., & Piper, M.E. (2022). "[Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology](https://pubmed.ncbi.nlm.nih.gov/35738022/)", Nicotine &amp; Tobacco Research.
 
