@@ -22,7 +22,7 @@ author_profile: true
 
 - **Cai, Z.**, Zhang, Y., Li, R. (2022) "[A distribution-free conditional independence test with application to causal discovery](https://jmlr.org/papers/v23/20-682.html)", Journal of Machine Learning Research. 
 
-- - **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
+- **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
 
 - **Cai, Z.**, Xi, D., Zhu, X., Li, R. (2022) "[Causal discoveries for high dimensional mixed data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9544)", Statistics in Medicine.
 
