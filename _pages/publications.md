@@ -8,16 +8,16 @@ author_profile: true
 ## Prepints
 
 
-- **Cai, Z**, Lei, J., Roeder, K. (2022+) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
+- **Cai, Z**, Lei, J., Roeder, K. (2022) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
 
-- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2022+) "[Nonparametric test of independence through projection pursuit]()".
+- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2022) "[Nonparametric test of independence through projection pursuit]()".
 
-- Awan, J., **Cai, Z** (2021+) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
+- Awan, J., **Cai, Z** (2021) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
 
 
 ## Statistics and Machine Learning
 
-- Du, J., **Cai, Z**, Roeder, K. (2022+) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.biorxiv.org/content/10.1101/2022.07.25.501456v1)", Proceedings of the National Academy of Sciences, accepted.
+- Du, J., **Cai, Z**, Roeder, K. (2022) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.biorxiv.org/content/10.1101/2022.07.25.501456v1)", Proceedings of the National Academy of Sciences, accepted.
 
 - **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
 
@@ -33,14 +33,5 @@ author_profile: true
 
 - **Cai, Z.**, Li, R., Zhu, L. (2020) “[Online sufficient dimension reduction through sliced inverse regression](http://jmlr.org/papers/v21/18-567.html)”, Journal of Machine Learning Research, 21(10):1−25.
 
-
-
-## Interdisciplinary Research
-
-- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020) "[The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures](https://authors.elsevier.com/c/1cFP11LiD33U2i)", Drug and Alcohol Dependence (2020): 108341.
-
-- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2021) "[Validating E-cigarette dependence scales based on dynamic patterns of vaping behaviors](https://pubmed.ncbi.nlm.nih.gov/33758949/)", Nicotine &amp; Tobacco Research.
-
-- Buu, A., Tong, Z., Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., & Piper, M.E. (2022). "[Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology](https://pubmed.ncbi.nlm.nih.gov/35738022/)", Nicotine &amp; Tobacco Research.
 
 
