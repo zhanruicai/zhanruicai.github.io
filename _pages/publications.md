@@ -8,7 +8,7 @@ author_profile: true
 ## Prepints
 
 
-- **Cai, Z**, Lei, J., Roeder, K. (2022+) "[A distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
+- **Cai, Z**, Lei, J., Roeder, K. (2022+) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
 
 - **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2022+) "[Nonparametric test of independence through projection pursuit]()".
 
