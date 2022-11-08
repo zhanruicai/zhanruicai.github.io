@@ -36,11 +36,11 @@ author_profile: true
 
 ## Interdisciplinary Research	
 
-- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020) "[The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures](https://authors.elsevier.com/c/1cFP11LiD33U2i)", Drug and Alcohol Dependence (2020): 108341.	
+- Buu, A., Tong, Z., Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., & Piper, M.E. (2022). "[Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology](https://pubmed.ncbi.nlm.nih.gov/35738022/)", Nicotine &amp; Tobacco Research.	
 
 - Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2021) "[Validating E-cigarette dependence scales based on dynamic patterns of vaping behaviors](https://pubmed.ncbi.nlm.nih.gov/33758949/)", Nicotine &amp; Tobacco Research.	
 
-- Buu, A., Tong, Z., Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., & Piper, M.E. (2022). "[Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology](https://pubmed.ncbi.nlm.nih.gov/35738022/)", Nicotine &amp; Tobacco Research.	
+- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020) "[The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures](https://authors.elsevier.com/c/1cFP11LiD33U2i)", Drug and Alcohol Dependence (2020): 108341.	
 
 
 
