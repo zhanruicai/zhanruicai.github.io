@@ -10,14 +10,12 @@ author_profile: true
 
 - **Cai, Z**, Lei, J., Roeder, K. (2022) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
 
-- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2022) "[Nonparametric test of independence through projection pursuit]()".
-
 - Awan, J., **Cai, Z** (2021) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
 
 
 ## Statistics and Machine Learning
 
-- Du, J., **Cai, Z**, Roeder, K. (2022) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.biorxiv.org/content/10.1101/2022.07.25.501456v1)", Proceedings of the National Academy of Sciences, accepted.
+- Du, J., **Cai, Z**, Roeder, K. (2022) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.pnas.org/doi/10.1073/pnas.2214414119)", Proceedings of the National Academy of Sciences.
 
 - **Cai, Z**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
 
