@@ -23,7 +23,7 @@ author_profile: true
 
 - **Cai, Z.**, Zhang, Y., Li, R. (2022) "[A distribution-free conditional independence test with application to causal discovery](https://jmlr.org/papers/v23/20-682.html)", Journal of Machine Learning Research. [R package](https://github.com/zhanruicai/CItest)
 
-- **Cai, Z.**, Xi, D., Zhu, X., Li, R. (2022) "[Causal discoveries for high dimensional mixed data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9544)", Statistics in Medicine.
+- **Cai, Z.**, Xi, D., Zhu, X., Li, R. (2022) "[Causal discoveries for high dimensional mixed data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9544)", Statistics in Medicine. [R code](https://github.com/xidongdxi/latentPC)
 
 - Tong, Z., **Cai, Z**, Yang, S., Li, R. (2022) “[Model-free conditional feature screening with FDR control](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2063130)”, Journal of the American Statistical Association.
 
