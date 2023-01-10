@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 
 
-- **Cai, Z**, Lei, J., Roeder, K. (2022) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)".
+- **Cai, Z**, Lei, J., Roeder, K. (2022) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)". [Python code](https://github.com/zhanruicai/CPC_code)
 
 - Awan, J., **Cai, Z** (2021) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
 
@@ -27,7 +27,7 @@ author_profile: true
 
 - Tong, Z., **Cai, Z**, Yang, S., Li, R. (2022) “[Model-free conditional feature screening with FDR control](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2063130)”, Journal of the American Statistical Association.
 
-- Zhu, X., **Cai, Z**, Ma, Y. (2021) "[Network functional autoregression model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association.
+- Zhu, X., **Cai, Z**, Ma, Y. (2021) "[Network functional autoregression model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718)", Journal of the American Statistical Association. [R code](https://github.com/zhanruicai/FSAR)
 
 - **Cai, Z.**, Li, R., Zhu, L. (2020) “[Online sufficient dimension reduction through sliced inverse regression](http://jmlr.org/papers/v21/18-567.html)”, Journal of Machine Learning Research, 21(10):1−25.
 
