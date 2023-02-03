@@ -5,15 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
-
-
-- **Cai, Z.**, Lei, J., Roeder, K. (2022) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)". [Python code](https://github.com/zhanruicai/CPC_code)
-
-- Awan, J., **Cai, Z.** (2021) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
-
 
 ## Statistics and Machine Learning
+
+- **Cai, Z.**, Lei, J., Roeder, K. (2023) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)", Journal of the American Statistical Association, accepted subject to minor revision. [Python code](https://github.com/zhanruicai/CPC_code)
 
 - Du, J., **Cai, Z.**, Roeder, K. (2022) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.pnas.org/doi/10.1073/pnas.2214414119)", Proceedings of the National Academy of Sciences. [Python package](https://github.com/jaydu1/scVAEIT)
 
@@ -40,5 +35,9 @@ author_profile: true
 
 - Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020) "[The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures](https://authors.elsevier.com/c/1cFP11LiD33U2i)", Drug and Alcohol Dependence (2020): 108341.	
 
+
+## Preprints
+
+- Awan, J., **Cai, Z.** (2021) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
 
 
