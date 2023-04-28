@@ -12,7 +12,12 @@ redirect_from:
 
 I am a tenure track assistant professor in the [Department of Statistics](https://www.stat.iastate.edu/) at Iowa State University. 
 
-Previously, I spent one year as a postdoc researcher in the [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University, working with Professor [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml). I received my Ph.D. in May 2021 from the [Department of Statistics](https://science.psu.edu/stat) at the Pennsylvania State University, advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/). Before graduate school, I received my Bachelor in [Statistics](http://stat.ruc.edu.cn/) from [Renmin University of China](https://www.ruc.edu.cn/) in 2016.
+Experience:
+
+- Postdoc in the  [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University, 2021 - 2022;
+- Ph.D. in the [Department of Statistics](https://science.psu.edu/stat), Pennsylvania State University, 2016 - 2021;
+- Bachelor in the [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), 2012 - 2016.
+
 
 Research interests:
 
