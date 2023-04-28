@@ -18,6 +18,8 @@ Experience:
 - Ph.D. in the [Department of Statistics](https://science.psu.edu/stat), Pennsylvania State University, 2016 - 2021;
 - Bachelor in the [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), 2012 - 2016.
 
+I was extremely fortunate to be advised by Professor [Runze Li](http://www.personal.psu.edu/ril4/) during my Ph.D. studies, and by Professor  [Kathryn Roeder](http://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](http://www.stat.cmu.edu/~jinglei/index.shtml) during my postdoctoral training.
+
 
 Research interests:
 
