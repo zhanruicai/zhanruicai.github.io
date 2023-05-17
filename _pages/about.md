@@ -10,10 +10,12 @@ redirect_from:
 
 
 
-I am a tenure-track assistant professor in the [Department of Statistics](https://www.stat.iastate.edu/) at Iowa State University. 
+I am a tenure-track assistant professor in the area of Innovation and Information Management at the [HKU Business School](https://www.hkubs.hku.hk/glocal/). 
+
 
 Experience:
 
+- Assistant professor in the [Department of Statistics](https://www.stat.iastate.edu/), Iowa State University, 2022 - 2023. 
 - Postdoctoral researcher in the  [Department of Statistics and Data Science](http://stat.cmu.edu/), Carnegie Mellon University, 2021 - 2022.
 - Ph.D. in the [Department of Statistics](https://science.psu.edu/stat), Pennsylvania State University, 2016 - 2021.
 - Bachelor in the [School of Statistics](http://stat.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), 2012 - 2016.
