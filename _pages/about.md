@@ -10,8 +10,7 @@ redirect_from:
 
 
 
-I am a tenure-track assistant professor in the area of Innovation and Information Management at the [HKU Business School](https://www.hkubs.hku.hk/glocal/). 
-
+I am a tenure-track assistant professor in the Faculty of Business and Economics at the [HKU Business School](https://www.hkubs.hku.hk/glocal/). My home department is in the Innovation and Information Management.
 
 Experience:
 
