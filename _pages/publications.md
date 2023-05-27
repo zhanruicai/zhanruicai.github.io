@@ -8,7 +8,7 @@ author_profile: true
 
 ## Statistics and Machine Learning
 
-- **Cai, Z.**, Lei, J., Roeder, K. (2023) "[Asymptotic distribution-free independence test for high dimension data](https://arxiv.org/abs/2110.07652)", Journal of the American Statistical Association, accepted. [Python code](https://github.com/zhanruicai/CPC_code)
+- **Cai, Z.**, Lei, J., Roeder, K. (2023) "[Asymptotic distribution-free independence test for high dimension data](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2218030)", Journal of the American Statistical Association. [Python code](https://github.com/zhanruicai/CPC_code)
 
 - Du, J., **Cai, Z.**, Roeder, K. (2022) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.pnas.org/doi/10.1073/pnas.2214414119)", Proceedings of the National Academy of Sciences. [Python package](https://github.com/jaydu1/scVAEIT)
 
