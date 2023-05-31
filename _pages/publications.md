@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-## Statistics and Machine Learning
-
 - **Cai, Z.**, Lei, J., Roeder, K. (2023) "[Asymptotic distribution-free independence test for high dimension data](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2218030)", Journal of the American Statistical Association. [Python code](https://github.com/zhanruicai/CPC_code)
 
 - Du, J., **Cai, Z.**, Roeder, K. (2022) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.pnas.org/doi/10.1073/pnas.2214414119)", Proceedings of the National Academy of Sciences. [Python package](https://github.com/jaydu1/scVAEIT)
@@ -26,14 +24,6 @@ author_profile: true
 
 - **Cai, Z.**, Li, R., Zhu, L. (2020) “[Online sufficient dimension reduction through sliced inverse regression](http://jmlr.org/papers/v21/18-567.html)”, Journal of Machine Learning Research, 21(10):1−25.
 
-
-## Interdisciplinary Research	
-
-- Buu, A., Tong, Z., Cai, Z., Li, R., Yang, J.J., Jorenby, D.E., & Piper, M.E. (2022). "[Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology](https://pubmed.ncbi.nlm.nih.gov/35738022/)", Nicotine &amp; Tobacco Research.	
-
-- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2021) "[Validating E-cigarette dependence scales based on dynamic patterns of vaping behaviors](https://pubmed.ncbi.nlm.nih.gov/33758949/)", Nicotine &amp; Tobacco Research.	
-
-- Buu, Y., Cai, Z., Li, R., Wong, S., Lin, H., Su, W., Jorenby, D., Piper, M. (2020) "[The association between short-term emotion dynamics and cigarette dependence symptomatology: a comprehensive examination of dynamic measures](https://authors.elsevier.com/c/1cFP11LiD33U2i)", Drug and Alcohol Dependence (2020): 108341.	
 
 
 ## Preprints
