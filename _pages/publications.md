@@ -28,6 +28,10 @@ author_profile: true
 
 ## Preprints
 
+- Xia, X., **Cai, Z.** (2021) "[Adaptive False Discovery Rate Control with Privacy Guarantee](https://arxiv.org/abs/2305.19482)"
+
+- **Cai, Z.** (2023) "[Robust Model Selection with Application in Single-Cell Multiomics Data](https://arxiv.org/abs/2305.05714)".
+
 - Awan, J., **Cai, Z.** (2021) "[Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397)".
 
 
