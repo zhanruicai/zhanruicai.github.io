@@ -14,7 +14,7 @@ classes: wide
 - Xintao Xia (Iowa State University)
 - Rohit Kanrar (Iowa State University)
 
-# Ad-Hoc Referee (from 2016)
+# Ad-Hoc Referee
 
 - Journal of the American Statistical Association
 - Journal of the Royal Statistical Society Series B
