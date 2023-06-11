@@ -28,7 +28,7 @@ author_profile: true
 
 ## Preprints
 
-- Xia, X., **Cai, Z.** (2023) "[Adaptive False Discovery Rate Control with Privacy Guarantee](https://arxiv.org/abs/2305.19482)"
+- <Xia, X.>, **Cai, Z.** (2023) "[Adaptive False Discovery Rate Control with Privacy Guarantee](https://arxiv.org/abs/2305.19482)"
 
 - **Cai, Z.** (2023) "[Robust Model Selection with Application in Single-Cell Multiomics Data](https://arxiv.org/abs/2305.05714)".
 
