@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Xia, X., **Cai, Z.** (2023) "[Adaptive False Discovery Rate Control with Privacy Guarantee](https://arxiv.org/abs/2305.19482)", Journal of Machine Learning Research, accepted.
 
 - **Cai, Z.**, Lei, J., Roeder, K. (2023) "[Asymptotic distribution-free independence test for high dimension data](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2218030)", Journal of the American Statistical Association. [Python code](https://github.com/zhanruicai/CPC_code)
 
 - Du, J., **Cai, Z.**, Roeder, K. (2022) "[Robust probabilistic modeling for single-cell multimodal mosaic integration and imputation via scVAEIT](https://www.pnas.org/doi/10.1073/pnas.2214414119)", Proceedings of the National Academy of Sciences. [Python package](https://github.com/jaydu1/scVAEIT)
 
-- **Cai, Z.**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)" , Journal of Econometrics.
+- **Cai, Z.**, Li, C., Wen, J., Yang, S. (2022) "[Asset splitting algorithm for ultrahigh dimensional portfolio selection and its theoretical property](https://www.sciencedirect.com/science/article/pii/S0304407622000902)", Journal of Econometrics.
 
 - **Cai, Z.**, Lei, J., Roeder, K. (2022) "[Model-free prediction test with application to genomics data](https://www.pnas.org/doi/10.1073/pnas.2205518119)", Proceedings of the National Academy of Sciences.
 
@@ -27,8 +28,6 @@ author_profile: true
 
 
 ## Preprints
-
-- Xia, X., **Cai, Z.** (2023) "[Adaptive False Discovery Rate Control with Privacy Guarantee](https://arxiv.org/abs/2305.19482)"
 
 - **Cai, Z.** (2023) "[Robust Model Selection with Application in Single-Cell Multiomics Data](https://arxiv.org/abs/2305.05714)".
 
