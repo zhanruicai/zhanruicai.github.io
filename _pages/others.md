@@ -8,6 +8,9 @@ classes: wide
 # Contact
 
 - Email: zhanruicai5 [at] gmail.com
+- Phone: (852) 3910 3104
+- Address: KK 1336, the University of Hong Kong, Hong Kong.
+
 
 # Ph.D. Students
 
