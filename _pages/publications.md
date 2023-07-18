@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+:envelope: indicates the corresponding author.
+
 - Xia, X., **Cai, Z.** (2023) "[Adaptive False Discovery Rate Control with Privacy Guarantee](https://arxiv.org/abs/2305.19482)", Journal of Machine Learning Research, accepted.
 
 - **Cai, Z.**, Lei, J., Roeder, K. (2023) "[Asymptotic distribution-free independence test for high dimension data](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2218030)", Journal of the American Statistical Association. [Python code](https://github.com/zhanruicai/CPC_code)
