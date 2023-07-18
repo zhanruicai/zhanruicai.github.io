@@ -32,4 +32,4 @@ classes: wide
 - Statistic Sinica
 - STAT
 - Electronic Journal of Statistics
-- Computational Statistics and Data Analysis <span style="color:white">"[Yuxin Tao](https://yuxin-tao.github.io/)"</span>
+- Computational Statistics and Data Analysis <font size=”1”>"[Yuxin Tao](https://yuxin-tao.github.io/)"</font>
