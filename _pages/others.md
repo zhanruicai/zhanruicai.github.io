@@ -16,7 +16,7 @@ classes: wide
 
 - Xintao Xia (Iowa State University)
 - Rohit Kanrar (Iowa State University)
-- <span style="color:blue">Yuxin Tao</span>.
+- <span style="color:blue">Yuxin Tao</span>
 
 # Ad-Hoc Referee
 
