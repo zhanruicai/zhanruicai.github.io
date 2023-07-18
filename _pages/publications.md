@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-:school_satchel: indicates student authors under my supervision. <span>&#9993;</span> indicates the corresponding author.
+<span>&#127890;</span> indicates student authors under my supervision. <span>&#9993;</span> indicates the corresponding author.
 
 - Xia, X.:school_satchel:, **Cai, Z.** (2023) [Adaptive False Discovery Rate Control with Privacy Guarantee](https://arxiv.org/abs/2305.19482), Journal of Machine Learning Research, accepted.
 
