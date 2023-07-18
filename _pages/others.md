@@ -16,8 +16,6 @@ classes: wide
 
 - Xintao Xia (Iowa State University)
 - Rohit Kanrar (Iowa State University)
-- <span style="color:white">"[Yuxin Tao](https://yuxin-tao.github.io/)"</span>
-
 
 # Ad-Hoc Referee
 
@@ -34,4 +32,4 @@ classes: wide
 - Statistic Sinica
 - STAT
 - Electronic Journal of Statistics
-- Computational Statistics and Data Analysis
+- Computational Statistics and Data Analysis <span style="color:white">"[Yuxin Tao](https://yuxin-tao.github.io/)"</span>
