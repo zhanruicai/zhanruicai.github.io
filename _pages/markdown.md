@@ -33,6 +33,7 @@ redirect_from:
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+ * [Another guide](https://yuxin-tao.github.io/)
 
 ## Markdown guide
 
