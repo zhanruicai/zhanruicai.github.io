@@ -7,7 +7,7 @@ author_profile: true
 
 <span>&#127890;</span> indicates student authors under my supervision. <span>&#9993;</span> indicates the corresponding author.
 
-- Awan, J., **Cai, Z.** (2023) [Approximate co-sufficient sampling for goodness-of-fit tests and synthetic data](https://arxiv.org/abs/2006.02397), Statistica Sinica, accepted.
+- Awan, J., **Cai, Z.** (2023) [One Step to Efficient Synthetic Data](https://arxiv.org/abs/2006.02397), Statistica Sinica, accepted.
 
 - Xia, X.<span>&#127890;</span>, **Cai, Z.** (2023) [Adaptive False Discovery Rate Control with Privacy Guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
 
