@@ -28,5 +28,5 @@ High dimensional inference, distribution-free inference, conformal inference, ca
 
 Email: zhanruicai5 [at] gmail.com.
 
-If you are interested in becoming a research assistant or [Ph.D.](https://phd.hkubs.hku.hk//), please get in touch with me with your CV.
+If you are interested in becoming a research assistant or [Ph.D.](https://phd.hkubs.hku.hk//), please send a CV.
 
