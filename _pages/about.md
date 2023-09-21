@@ -27,3 +27,6 @@ Research interests:
 High dimensional inference, distribution-free inference, conformal inference, causal discovery, differential privacy.
 
 Email: zhanruicai5 [at] gmail.com.
+
+If you are interested in becoming a research assistant or [Ph.D.](https://phd.hkubs.hku.hk//), please get in touch with me with your CV.
+
