@@ -7,9 +7,9 @@ author_profile: true
 
 <span>&#127890;</span> indicates student authors under my supervision. <span>&#9993;</span> indicates the corresponding author.
 
-- Awan, J., **Cai, Z.** (2023) [One Step to Efficient Synthetic Data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0274_na.pdf), Statistica Sinica.
+- Awan, J., **Cai, Z.** (2023) [One step to efficient synthetic data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0274_na.pdf), Statistica Sinica.
 
-- Xia, X.<span>&#127890;</span>, **Cai, Z.** (2023) [Adaptive False Discovery Rate Control with Privacy Guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
+- Xia, X.<span>&#127890;</span>, **Cai, Z.** (2023) [Adaptive false discovery rate Ccontrol with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
 
 - **Cai, Z.**<span>&#9993;</span>, Lei, J., Roeder, K. (2023) [Asymptotic distribution-free independence test for high dimension data](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2218030), Journal of the American Statistical Association. [Python code](https://github.com/zhanruicai/CPC_code)
 
@@ -33,7 +33,9 @@ author_profile: true
 
 ## Preprints
 
-- **Cai, Z.** (2023) [Robust Model Selection with Application in Single-Cell Multiomics Data](https://arxiv.org/abs/2305.05714).
+- **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2023) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260).
+
+- **Cai, Z.** (2023) [Robust model selection with application in single-cell multiomics data](https://arxiv.org/abs/2305.05714).
 
 
 
