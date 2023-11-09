@@ -9,7 +9,7 @@ author_profile: true
 
 - Awan, J., **Cai, Z.** (2023) [One step to efficient synthetic data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0274_na.pdf), Statistica Sinica.
 
-- Xia, X.<span>&#127890;</span>, **Cai, Z.** (2023) [Adaptive false discovery rate Ccontrol with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
+- Xia, X.<span>&#127890;</span>, **Cai, Z.** (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
 
 - **Cai, Z.**<span>&#9993;</span>, Lei, J., Roeder, K. (2023) [Asymptotic distribution-free independence test for high dimension data](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2218030), Journal of the American Statistical Association. [Python code](https://github.com/zhanruicai/CPC_code)
 
