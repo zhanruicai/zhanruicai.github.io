@@ -21,7 +21,7 @@ Experience:
 
 Research interests:
 
-High dimensional inference, distribution-free inference, conformal inference, causal discovery, differential privacy.
+High dimensional inference, differential privacy, machine learning.
 
 Email: zhanruic [at] hku.hk
 
