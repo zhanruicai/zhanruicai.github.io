@@ -33,7 +33,7 @@ author_profile: true
 
 ## Preprints
 
-- Xia, X.<span>&#127890;</span>, Zhang, L., **Cai, Z.** (2024) [Differentially Private Sliced Inverse Regression: Minimax Optimality and Algorithm](https://arxiv.org/abs/2401.08150).
+- Xia, X.<span>&#127890;</span>, Zhang, L., **Cai, Z.** (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150).
 
 - **Cai, Z.**, Li, S., Xia, X.<span>&#127890;</span>, Zhang, L. (2023) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260).
 
