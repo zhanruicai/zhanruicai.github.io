@@ -9,7 +9,7 @@ classes: wide
 
 - Email: zhanruicai5 [at] gmail.com
 - Phone: (852) 3910 3104
-- Address: KK 1336, the University of Hong Kong, Hong Kong, China.
+- Address: K. K. Leung Building 1336, the University of Hong Kong, Hong Kong, China.
 
 
 # Ph.D. Students
@@ -32,4 +32,5 @@ classes: wide
 - Statistic Sinica
 - STAT
 - Electronic Journal of Statistics
+- Journal of Computational and Graphical Statistics
 - Computational Statistics and Data Analysis
