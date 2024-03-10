@@ -7,7 +7,7 @@ classes: wide
 
 # Contact
 
-- Email: zhanruicai5 [at] gmail.com
+- Email: zhanruic [at] hku.hk
 - Phone: (852) 3910 3104
 - Address: K. K. Leung Building 1336, the University of Hong Kong, Hong Kong, China.
 
