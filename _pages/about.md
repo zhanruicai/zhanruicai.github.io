@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a tenure-track assistant professor in the Faculty of Business and Economics at the [HKU Business School](https://www.hkubs.hku.hk/glocal/). My home department is in Innovation and Information Management (Business Analytics). [Link](https://www.hkubs.hku.hk/people/zhanrui-cai/)
+I am a tenure-track assistant professor in the Faculty of Business and Economics at the [HKU Business School](https://www.hkubs.hku.hk/glocal/). My home department is in Innovation and Information Management (Business Analytics) [Link](https://www.hkubs.hku.hk/people/zhanrui-cai/). I am also part of the [Statistics group](https://hkubs-stat.github.io/).
 
 Experience:
 
