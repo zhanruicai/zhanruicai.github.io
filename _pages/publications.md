@@ -35,7 +35,7 @@ author_profile: true
 
 - Kanrar, R.<span>&#127890;</span>, Jiang, F., **Cai, Z.** (2024) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/pdf/2404.06995).
 
-- Xia, X.<span>&#127890;</span>, Zhang, L., **Cai, Z.** (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150).
+- Xia, X.<span>&#127890;</span>, Zhang, L., **Cai, Z.** (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). [Winner of the 2024 IMS Hannan Graduate Student Travel Award]
 
 - **Cai, Z.**, Li, S., Xia, X.<span>&#127890;</span>, Zhang, L. (2023) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260).
 
