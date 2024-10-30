@@ -42,7 +42,5 @@ high dimensional covariates](https://arxiv.org/abs/2410.04028), Journal of Busin
 
 - **Cai, Z.**, Li, S., Xia, X.<span>&#127890;</span>, Zhang, L. (2023) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260).
 
-- **Cai, Z.** (2023) [Robust model selection with application in single-cell multiomics data](https://arxiv.org/abs/2305.05714).
-
 
 
