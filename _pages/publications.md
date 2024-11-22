@@ -8,7 +8,7 @@ author_profile: true
 <span>&#127890;</span> indicates student authors under my supervision. <span>&#9993;</span> indicates the corresponding author.
 
 - Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2024) [Penalized sparse covariance regression with
-high dimensional covariates](https://arxiv.org/abs/2410.04028), Journal of Business & Economic Statistics. accepted.
+high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), Journal of Business & Economic Statistics. accepted.
 
 - Awan, J., **Cai, Z.** (2024) [One step to efficient synthetic data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0274_na.pdf), Statistica Sinica. accepted.
 
