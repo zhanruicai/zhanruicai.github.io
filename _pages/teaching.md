@@ -8,9 +8,9 @@ classes: wide
 
 ## The University of Hong Kong
 
-  - MASBA7002 (Business Statistics), Fall 2023
+  - MASBA7002 (Business Statistics), Fall 2023, Fall 2024, Fall 2025.
 
-  - IIMT1640 (Probability and Statistics for Business), Spring 2024
+  - IIMT1640 (Probability and Statistics for Business), Spring 2024, Spring 2025, Spring 2026.
 
 ## Iowa State University
 
