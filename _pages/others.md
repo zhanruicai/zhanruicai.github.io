@@ -16,6 +16,7 @@ classes: wide
 
 - Xintao Xia (Iowa State University)
 - Rohit Kanrar (Iowa State University)
+- Chen Wang (University of Hong Kong)
 
 # Ad-Hoc Referee
 
