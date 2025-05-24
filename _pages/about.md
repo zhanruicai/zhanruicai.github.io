@@ -21,7 +21,7 @@ Experience:
 
 Research interests:
 
-High dimensional inference, differential privacy, machine learning.
+Machine learning, differential privacy, trustworthy AI.
 
 Email: zhanruic [at] hku.hk
 
