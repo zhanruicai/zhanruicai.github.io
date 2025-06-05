@@ -36,7 +36,7 @@ high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/073500
 
 ## Preprints
 
-- Kanrar, R.<span>&#127890;</span>, Jiang, F., **Cai, Z.** (2024) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/pdf/2404.06995). R & R, Journal of Machine Learning Research. 
+- Kanrar, R.<span>&#127890;</span>, Jiang, F., **Cai, Z.** (2024) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/pdf/2404.06995). Minor revision, Journal of Machine Learning Research. 
 
 - Xia, X.<span>&#127890;</span>, Zhang, L., **Cai, Z.** (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). Minor revision, Journal of the American Statistical Association. 
 
