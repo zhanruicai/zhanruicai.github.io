@@ -1,5 +1,3 @@
-
-
 ---
 layout: archive
 title: "Selected Publications"
@@ -7,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(*🎒*) indicates student authors under my supervision.
+<span>&#127890;</span> indicates student authors under my supervision.
 
 ## Publications
 
@@ -15,7 +13,7 @@ author_profile: true
 
 - Awan, J., **Cai, Z.** (2024) [One step to efficient synthetic data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0274_na.pdf), *Statistica Sinica*.
 
-- Xia, X. (*🎒*), **Cai, Z.** (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), *Journal of Machine Learning Research*.
+- Xia, X. <span>&#127890;</span>, **Cai, Z.** (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), *Journal of Machine Learning Research*.
 
 - **Cai, Z.**, Lei, J., Roeder, K. (2023) [Asymptotic distribution-free independence test for high dimension data](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2218030), *Journal of the American Statistical Association*. [Python code](https://github.com/zhanruicai/CPC_code)
 
@@ -37,8 +35,8 @@ author_profile: true
 
 ## Preprints
 
-- Kanrar, R. (*🎒*), Jiang, F., **Cai, Z.** (2025) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/pdf/2404.06995). *Minor revision, Journal of Machine Learning Research*.
+- Kanrar, R. <span>&#127890;</span>, Jiang, F., **Cai, Z.** (2025) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/pdf/2404.06995). *Minor revision, Journal of Machine Learning Research*.
 
-- Xia, X. (*🎒*), Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). *Minor revision, Journal of the American Statistical Association*.
+- Xia, X. <span>&#127890;</span>, Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). *Minor revision, Journal of the American Statistical Association*.
 
-- **Cai, Z.**, Li, S., Xia, X. (*🎒*), Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). *R & R, Journal of Machine Learning Research*.
+- **Cai, Z.**, Li, S., Xia, X. <span>&#127890;</span>, Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). *R & R, Journal of Machine Learning Research*.
