@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span>&#127890;</span> indicates student authors under my supervision. <span>&#9993;</span> indicates the corresponding author.
+<span>&#127890;</span> indicates student authors under my supervision. 
 
 - Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2024) [Penalized sparse covariance regression with
 high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), Journal of Business & Economic Statistics.
