@@ -42,5 +42,5 @@ author_profile: true
 
 - **Cai, Z.**, Li, R., Zhu, L. (2020) [Online sufficient dimension reduction through sliced inverse regression](http://jmlr.org/papers/v21/18-567.html), *Journal of Machine Learning Research*, 21(10):1−25.
 
-*Note: <span>&#127890;</span> indicates student authors under my supervision.
+Note: <span>&#127890;</span> indicates student authors under my supervision.
 
