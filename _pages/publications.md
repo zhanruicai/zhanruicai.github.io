@@ -16,7 +16,7 @@ author_profile: true
 - **Cai, Z.**, Li, S., Xia, X. <span>&#127890;</span>, Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). *R & R, Journal of Machine Learning Research*.
 
 
-## Publications
+## Selected Publications
 
 - Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2024) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
