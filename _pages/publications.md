@@ -9,14 +9,14 @@ author_profile: true
 
 - **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690). 
 
-- Kanrar, R. <span>&#127890;</span>, Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using modern classifiers](https://arxiv.org/pdf/2404.06995). *Minor revision, Journal of Machine Learning Research*.
-
 - Xia, X. <span>&#127890;</span>, Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). *Minor revision, Journal of the American Statistical Association*.
 
 - **Cai, Z.**, Li, S., Xia, X. <span>&#127890;</span>, Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). *R & R, Journal of Machine Learning Research*.
 
 
 ## Selected Publications
+
+- Kanrar, R. <span>&#127890;</span>, Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using modern classifiers](https://arxiv.org/pdf/2404.06995). *Minor revision, Journal of Machine Learning Research*.
 
 - Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2024) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
