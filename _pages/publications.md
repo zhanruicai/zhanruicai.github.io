@@ -16,7 +16,7 @@ author_profile: true
 
 ## Selected Publications
 
-- Kanrar, R. <span>&#127890;</span>, Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using modern classifiers](https://arxiv.org/pdf/2404.06995). *Journal of Machine Learning Research*.
+- Kanrar, R. <span>&#127890;</span>, Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using modern classifiers](https://arxiv.org/pdf/2404.06995), *Journal of Machine Learning Research*.
 
 - Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2024) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
