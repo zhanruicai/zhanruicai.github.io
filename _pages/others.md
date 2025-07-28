@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /group/
+permalink: /others/
 author_profile: true
 classes: wide
 ---
@@ -21,3 +21,21 @@ classes: wide
 
 - [Xintao Xia](https://xintaox.github.io/), Ph.D. in Statistics, Iowa State University, 2025.   
   First and Current Position: Assistant Professor, Zhejiang University.
+ 
+# Ad-Hoc Referee
+
+- Journal of the American Statistical Association
+- Journal of the Royal Statistical Society Series B
+- Journal of Machine Learning Research
+- Annals of Statistics
+- Annals of Applied Statistics
+- Journal of Ecometrics
+- Journal of Multivariate Analysis
+- Science China Mathematics
+- Nature Methods
+- Statistics in Medicine
+- Statistic Sinica
+- STAT
+- Electronic Journal of Statistics
+- Journal of Computational and Graphical Statistics
+- Computational Statistics and Data Analysis
