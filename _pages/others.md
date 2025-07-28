@@ -17,7 +17,7 @@ classes: wide
 - Rohit Kanrar (Iowa State University)
 - Chen Wang (University of Hong Kong)
 
-# Former Ph.D. Student
+ # Former Ph.D. Students
 
 - [Xintao Xia](https://xintaox.github.io/), Ph.D. in Statistics, Iowa State University, 2025.   
   First and Current Position: Assistant Professor, Zhejiang University.
