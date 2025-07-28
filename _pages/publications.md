@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-- Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](). 
+- Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent]. 
 
 - **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690). 
 
