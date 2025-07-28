@@ -14,10 +14,14 @@ classes: wide
 
 # Ph.D. Students
 
-- Xintao Xia (Iowa State University)
 - Rohit Kanrar (Iowa State University)
 - Chen Wang (University of Hong Kong)
 
+ # Former Ph.D. Students
+
+- Xintao Xia, Ph.D. in Statistics, Iowa State University, 2025.
+  First and Current Position: Assistant Professor, Zhejiang University.
+ 
 # Ad-Hoc Referee
 
 - Journal of the American Statistical Association
