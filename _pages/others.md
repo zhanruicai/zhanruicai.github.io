@@ -19,5 +19,5 @@ classes: wide
 
 # Former Ph.D. Students
 
-- Xintao Xia, Ph.D. in Statistics, Iowa State University, 2025.   
+- [Xintao Xia](https://xintaox.github.io/), Ph.D. in Statistics, Iowa State University, 2025.   
   First and Current Position: Assistant Professor, Zhejiang University.
