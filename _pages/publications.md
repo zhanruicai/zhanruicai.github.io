@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-- Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](). 
+- Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). 
 
 - **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690). 
 
@@ -20,9 +20,9 @@ author_profile: true
 
 - Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://arxiv.org/pdf/2404.06995), *Journal of Machine Learning Research*, accepted.
 
-- Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2024) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
+- Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2025) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
-- Awan, J., **Cai, Z.** (2024) [One step to efficient synthetic data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0274_na.pdf), *Statistica Sinica*.
+- Awan, J., **Cai, Z.** (2025) [One step to efficient synthetic data](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0274_na.pdf), *Statistica Sinica*.
 
 - Xia, X., **Cai, Z.** (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), *Journal of Machine Learning Research*.
 
