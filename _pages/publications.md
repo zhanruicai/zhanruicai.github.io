@@ -11,12 +11,12 @@ author_profile: true
 
 - **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690). 
 
-- Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). 
-
 - **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). 
 
 
 ## Selected Publications
+
+- Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150), *Journal of the American Statistical Association*, accepted.
 
 - Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://arxiv.org/pdf/2404.06995), *Journal of Machine Learning Research*, accepted.
 

@@ -14,7 +14,7 @@ classes: wide
 
 # Ph.D. Students
 
-- Rohit Kanrar, 5th year, Iowa State University.
+- [Rohit Kanrar](https://rohitkanrar.github.io/), 5th year, Iowa State University.
 - Chen Wang, 2nd year, University of Hong Kong.
 
 # Former Ph.D. Students
