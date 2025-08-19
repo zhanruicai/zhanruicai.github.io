@@ -11,6 +11,8 @@ author_profile: true
 
 - **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690). 
 
+- Sun, J., **Cai, Z.**, Zhong, W. (2025)[Stabilized eBH: a Unified Stability Approach to False Discovery Rate Control]()
+
 - **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). 
 
 
