@@ -9,11 +9,11 @@ author_profile: true
 
 - Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560), major revision, *Journal of the American Statistical Association*.
 
-- **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690), R \& R, *Journal of the Royal Statistical Society Series B*.
+- **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690), R & R, *Journal of the Royal Statistical Society Series B*.
 
 - Sun, J., **Cai, Z.**, Zhong, W. (2025) [Stabilized eBH: a unified stability approach to false discovery rate control](), major revision, *Journal of the American Statistical Association*.
 
-- **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), R\& R, *Journal of Machine Learning Research*.
+- **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), R & R, *Journal of Machine Learning Research*.
 
 
 
