@@ -17,7 +17,7 @@ author_profile: true
 
 - Wang, C., Price, K., Cai, H., Shen, W., **Cai, Z.**, Hu, G. (2025) [How much does Home Field Advantage matter in Soccer Games? A causal inference approach for English Premier League analysis](https://arxiv.org/abs/2205.07193)
 
-## Selected Publications
+## Publications: Theory and Methodology
 
 - Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150), *Journal of the American Statistical Association*, accepted.
 
@@ -47,5 +47,13 @@ author_profile: true
 
 - Zhu, X., **Cai, Z.**, Ma, Y. (2021) [Network functional autoregression model](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1901718), *Journal of the American Statistical Association*. [R code](https://github.com/zhanruicai/FSAR)
 
-- **Cai, Z.**, Li, R., Zhu, L. (2020) [Online sufficient dimension reduction through sliced inverse regression](http://jmlr.org/papers/v21/18-567.html), *Journal of Machine Learning Research*, 21(10):1−25.
+- **Cai, Z.**, Li, R., Zhu, L. (2020) [Online sufficient dimension reduction through sliced inverse regression](http://jmlr.org/papers/v21/18-567.html), *Journal of Machine Learning Research*.
+
+## Publications: Applications
+
+- Buu, A., **Cai, Z.**, Li, R., Wong, S.W., Lin, H.C., Su, W.C., Jorenby, D.E., Piper, M.E. (2021) [The association between short-term emotion dynamics and cigarette dependence: A comprehensive examination of dynamic measures](https://www.sciencedirect.com/science/article/abs/pii/S0376871620305068), *Drug and alcohol dependence*.
+
+- Buu, A., **Cai, Z.**, Li, R., Wong, S.W., Lin, H.C., Su, W.C., Jorenby, D.E., Piper, M.E. (2021) [Validating e-cigarette dependence scales based on dynamic patterns of vaping behaviors](https://academic.oup.com/ntr/article/23/9/1484/6184573), *Nicotine and Tobacco Research*.
+
+- Buu, A., Tong, Z., **Cai, Z.**, Li, R., Yang, J.J., Jorenby, D.E., Piper, M.E. (2023) [Subtypes of dual users of combustible and electronic cigarettes: longitudinal changes in product use and dependence symptomatology](https://academic.oup.com/ntr/article/25/3/438/6615357), *Nicotine and Tobacco Research*.
 
