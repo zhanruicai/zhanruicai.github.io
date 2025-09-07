@@ -21,7 +21,9 @@ author_profile: true
 
 - Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150), *Journal of the American Statistical Association*, accepted.
 
-- Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://arxiv.org/pdf/2404.06995), *Journal of Machine Learning Research*, accepted.
+- Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://jmlr.org/papers/v26/24-0365.html), *Journal of Machine Learning Research*.
+
+- **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2025) [A Nonparametric Independence Test via Penalized Mutual Information](https://doi.org/10.1007/s11425-024-2486-1), *SCIENCE CHINA Mathematics*. 
 
 - Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2025) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
