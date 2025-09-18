@@ -15,17 +15,17 @@ author_profile: true
 
 1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), R & R, *Journal of Machine Learning Research*.
 
-1. Wang, C., Price, K., Cai, H., Shen, W., **Cai, Z.**, Hu, G. (2025) [How much does Home Field Advantage matter in Soccer Games? A causal inference approach for English Premier League analysis](https://arxiv.org/abs/2205.07193)
+1. Wang, C., Price, K., Cai, H., Shen, W., **Cai, Z.**, Hu, G. (2025) [How much does home field advantage matter in soccer games? A causal inference approach for English Premier League analysis](https://arxiv.org/abs/2205.07193)
 
 ---
 
 ## Publications: Theory and Methodology
 
-1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150), *Journal of the American Statistical Association*, accepted.
+1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2555059), *Journal of the American Statistical Association*.
 
 1. Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://jmlr.org/papers/v26/24-0365.html), *Journal of Machine Learning Research*.
 
-1. **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2025) [A nonparametric independence test via penalized mutual information](https://doi.org/10.1007/s11425-024-2486-1), *Science China Mathematics*.
+1. **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2025) [A nonparametric independence test via penalized mutual information](https://www.sciengine.com/SCM/doi/10.1007/s11425-024-2486-1), *Science China Mathematics*.
 
 1. Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2025) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
