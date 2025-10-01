@@ -13,7 +13,7 @@ author_profile: true
 
 1. Sun, J., **Cai, Z.**, Zhong, W. (2025) [Stabilized eBH: a unified stability approach to false discovery rate control](), major revision, *Journal of the American Statistical Association*.
 
-1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2025) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), R & R, *Journal of Machine Learning Research*.
+1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2025) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), R & R, *Journal of Machine Learning Research*.
 
 1. Wang, C., Price, K., Cai, H., Shen, W., **Cai, Z.**, Hu, G. (2025) [How much does home field advantage matter in soccer games? A causal inference approach for English Premier League analysis](https://arxiv.org/abs/2205.07193)
 
