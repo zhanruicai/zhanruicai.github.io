@@ -25,4 +25,5 @@ Machine learning, differential privacy, trustworthy AI.
 
 Email: zhanruic [at] hku.hk
 
+**Opportunities:** If you are interested in pursuing Ph.D. studies or research assistant positions, please send an email with your CV and a sample of your best work.
 
