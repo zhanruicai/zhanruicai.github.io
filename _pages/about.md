@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a tenure-track assistant professor in the Faculty of Business and Economics at the [HKU Business School](https://www.hkubs.hku.hk/glocal/). My home department is Innovation and Information Management [Business Analytics](https://www.hkubs.hku.hk/people/zhanrui-cai/). I am also part of the [Statistics group](https://hkubs-stat.github.io/).
+I am a tenure-track assistant professor in the [Faculty of Business and Economics](https://www.hkubs.hku.hk/glocal/) at the The University of Hong Kong. My home department is Innovation and Information Management [Business Analytics](https://www.hkubs.hku.hk/people/zhanrui-cai/). I am also part of the [Statistics group](https://hkubs-stat.github.io/).
 
 Experience:
 
@@ -21,9 +21,9 @@ Experience:
 
 Research interests:
 
-Machine learning, differential privacy, trustworthy AI.
+Machine learning, privacy protection, trustworthy AI, statistical inference.
 
 Email: zhanruic [at] hku.hk
 
-**Opportunities:** If you are interested in pursuing Ph.D. studies or research assistant positions, please send an email with your CV and a sample of your best work.
+**Opportunities:** If you are interested in pursuing Ph.D. studies, research assistant, or postdoc positions, please send an email with your CV and a sample of your best work.
 
