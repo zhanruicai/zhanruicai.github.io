@@ -7,13 +7,13 @@ author_profile: true
 
 ## Preprints
 
-1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), minor revision, *Journal of Machine Learning Research*.
+1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260)
 
-1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560), major revision, *Journal of the American Statistical Association*.
+1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560)
 
-1. **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690), R & R, *Journal of the Royal Statistical Society Series B*.
+1. **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690)
 
-1. Sun, J., **Cai, Z.**, Zhong, W. (2025) [Stabilized eBH: a unified stability approach to false discovery rate control](https://arxiv.org/pdf/2512.17401), major revision, *Journal of the American Statistical Association*.
+1. Sun, J., **Cai, Z.**, Zhong, W. (2025) [Stabilized eBH: a unified stability approach to false discovery rate control](https://arxiv.org/pdf/2512.17401)
 
 1. Wang, C., Price, K., Cai, H., Shen, W., **Cai, Z.**, Hu, G. (2025) [How much does home field advantage matter in soccer games? A causal inference approach for English Premier League analysis](https://arxiv.org/abs/2205.07193)
 
