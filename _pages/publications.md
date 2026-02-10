@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+1. Xia, X., Xia, Z., Zhang, L., **Cai, Z.** (2026) [A Statistical Framework for Alignment with Biased AI Feedback](https://arxiv.org/abs/2602.08259)
+
 1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260)
 
 1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560)
