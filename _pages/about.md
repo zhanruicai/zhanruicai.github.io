@@ -29,7 +29,7 @@ I am a tenure-track assistant professor in the [Faculty of Business and Economic
 
 ## Research Interests
 
-My research broadly lies at the interface of statistics and machine learning. I am generally interested in statistics for AI, especially large language models, statistical inference under differential privacy, and leveraging machine learning methods to improve the efficiency of statistical procedures.
+My research broadly lies at the interface of statistics and machine learning. I am generally interested in statistics for AI (especially large language models), statistical inference under differential privacy, and leveraging machine learning methods to improve the efficiency of statistical procedures.
 
 ## Contact
 
