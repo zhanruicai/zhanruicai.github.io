@@ -23,7 +23,7 @@ I am a tenure-track assistant professor in the [Faculty of Business and Economic
 
 ## Professional Experience
 
-- Assistant Professor, The University of Hong Kong, 2023 - present.
+- Assistant Professor, Faculty of Business and Economics, University of Hong Kong, 2023 - present.
 - Assistant Professor, [Department of Statistics](https://www.stat.iastate.edu/), Iowa State University, 2022 - 2023.
 
 
