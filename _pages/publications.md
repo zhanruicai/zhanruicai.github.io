@@ -9,6 +9,8 @@ author_profile: true
 
 1. Xia, X., Xia, Z., Zhang, L., **Cai, Z.** (2026) [A Statistical Framework for Alignment with Biased AI Feedback](https://arxiv.org/abs/2602.08259)
 
+1. Kong, Z., Tao, Y., Huang, D., **Cai, Z.** (2026) [Differentially Private Estimation and Inference for Spatial Autoregressive Models]()
+
 1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560)
 
 1. **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690)
