@@ -9,8 +9,6 @@ author_profile: true
 
 1. Xia, X., Xia, Z., Zhang, L., **Cai, Z.** (2026) [A Statistical Framework for Alignment with Biased AI Feedback](https://arxiv.org/abs/2602.08259)
 
-1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260)
-
 1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560)
 
 1. **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690)
@@ -23,11 +21,13 @@ author_profile: true
 
 ## Publications: Theory and Methodology
 
+1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), *Journal of Machine Learning Research*, accepted.
+
+1. **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2026) [A nonparametric independence test via penalized mutual information](https://www.sciengine.com/SCM/doi/10.1007/s11425-024-2486-1), *Science China Mathematics*.
+
 1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2555059), *Journal of the American Statistical Association*.
 
 1. Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://jmlr.org/papers/v26/24-0365.html), *Journal of Machine Learning Research*.
-
-1. **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2025) [A nonparametric independence test via penalized mutual information](https://www.sciengine.com/SCM/doi/10.1007/s11425-024-2486-1), *Science China Mathematics*.
 
 1. Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2025) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
