@@ -25,9 +25,9 @@ author_profile: true
 
 1. **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2026) [A nonparametric independence test via penalized mutual information](https://www.sciengine.com/SCM/doi/10.1007/s11425-024-2486-1), *Science China Mathematics*.
 
-1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2555059), *Journal of the American Statistical Association*, [code](https://github.com/zhanruicai/zhanruicai.github.io/tree/master/code/DP-SIR).
+1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2555059), *Journal of the American Statistical Association*. [Code](https://github.com/zhanruicai/zhanruicai.github.io/tree/master/code/DP-SIR).
 
-1. Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://jmlr.org/papers/v26/24-0365.html), *Journal of Machine Learning Research*, [code](https://github.com/rohitkanrar/changeAUC).
+1. Kanrar, R., Jiang, F., **Cai, Z.** (2025) [Model-free change-point detection using AUC of a classifier](https://jmlr.org/papers/v26/24-0365.html), *Journal of Machine Learning Research*. [Code](https://github.com/rohitkanrar/changeAUC).
 
 1. Gao, Y., Zhang, Z., **Cai, Z.**, Zhu, X., Zou, T., and Wang, H. (2025) [Penalized sparse covariance regression with high dimensional covariates](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2415109), *Journal of Business & Economic Statistics*.
 
