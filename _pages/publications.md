@@ -21,7 +21,7 @@ author_profile: true
 
 ## Publications: Theory and Methodology
 
-1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260), *Journal of Machine Learning Research*, accepted.
+1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://jmlr.org/papers/v27/24-1413.html), *Journal of Machine Learning Research*.
 
 1. **Cai, Z.**, Zhang, Y., Guo, X., Zhu, L., Li, R. (2026) [A nonparametric independence test via penalized mutual information](https://www.sciengine.com/SCM/doi/10.1007/s11425-024-2486-1), *Science China Mathematics*.
 
