@@ -11,8 +11,6 @@ author_profile: true
 
 1. Xia, X., Zhang, L., **Cai, Z.** (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560)
 
-1. **Cai, Z.**, Fan, Y., Gao, L. (2025) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690)
-
 1. Sun, J., **Cai, Z.**, Zhong, W. (2025) [Stabilized eBH: a unified stability approach to false discovery rate control](https://arxiv.org/pdf/2512.17401)
 
 1. Wang, C., Price, K., Cai, H., Shen, W., **Cai, Z.**, Hu, G. (2025) [How much does home field advantage matter in soccer games? A causal inference approach for English Premier League analysis](https://arxiv.org/abs/2205.07193)
@@ -20,6 +18,8 @@ author_profile: true
 ---
 
 ## Publications: Theory and Methodology
+
+1. **Cai, Z.**, Fan, Y., Gao, L. (2026) [Knockoffs inference under privacy constraints](https://arxiv.org/abs/2506.09690), *Journal of the Royal Statistical Society: Series B*, accepted.
 
 1. **Cai, Z.**, Li, S., Xia, X., Zhang, L. (2026) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://jmlr.org/papers/v27/24-1413.html), *Journal of Machine Learning Research*.
 
